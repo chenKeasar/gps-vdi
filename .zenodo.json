@@ -1,0 +1,32 @@
+{
+  "title": "GPS-VDI: visual diversity of flying insects from sticky-trap scans",
+  "license": "BSD-3-Clause",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Keasar, Chen",
+      "orcid": "0000-0003-0994-1520",
+      "affiliation": "Ben-Gurion University of the Negev"
+    },
+    {
+      "name": "Cabra-Leykin, Liraz",
+      "affiliation": "Ben-Gurion University of the Negev"
+    }
+  ],
+  "description": "Analysis code accompanying Cabra-Leykin et al. (2026). Estimates the diversity of flying insects from scanned yellow sticky traps without identifying the specimens, and validates the index against expert taxonomic identification of a 40-trap subset.",
+  "keywords": [
+    "insect biodiversity",
+    "sticky traps",
+    "image analysis",
+    "entropy estimation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17632/6pbgs93kdf",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
+  ],
+  "version": "1.0.0"
+}

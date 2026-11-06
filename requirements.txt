@@ -1,0 +1,11 @@
+# Pinning is deliberately loose: the analysis uses long-stable interfaces.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+opencv-python-headless
+pyarrow
+requests
+pytest

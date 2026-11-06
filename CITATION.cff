@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "GPS-VDI: visual diversity of flying insects from sticky-trap scans"
+message: "If you use this software, please cite both the software and the dataset it analyses."
+type: software
+authors:
+  - family-names: Keasar
+    given-names: Chen
+    orcid: "https://orcid.org/0000-0003-0994-1520"
+    affiliation: "Ben-Gurion University of the Negev"
+  - family-names: Cabra-Leykin
+    given-names: Liraz
+    affiliation: "Ben-Gurion University of the Negev"
+license: BSD-3-Clause
+repository-code: "https://github.com/chenKeasar/gps-vdi"
+abstract: >-
+  Analysis code for a method that estimates the diversity of flying insects directly from
+  scanned yellow sticky traps, without identifying the specimens. Each detected arthropod
+  is reduced to five visual features; the spread of those features across a trap is
+  summarised by a grid-based entropy estimator, giving a per-trap visual diversity index.
+keywords:
+  - insect biodiversity
+  - sticky traps
+  - image analysis
+  - entropy estimation
+references:
+  - type: data
+    title: "Insect biodiversity assessment"
+    doi: "10.17632/6pbgs93kdf"
+    authors:
+      - family-names: Cabra-Leykin
+        given-names: Liraz
+      - family-names: Keasar
+        given-names: Chen

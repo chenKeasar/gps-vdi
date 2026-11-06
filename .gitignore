@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+.venv_*/
+venv/
+
+# Editors
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data fetched from the deposit, and everything the notebook writes
+data/
+gpsvdi_output/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.ckpt

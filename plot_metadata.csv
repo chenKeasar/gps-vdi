@@ -1,0 +1,70 @@
+plot_id,site,habitat,crop,major_crop,altitude_m,rainfall_mm,x,y
+1,Afik,Agriculture,Pear,Deciduous,346,487,266575,742184
+2,Afik,Agriculture,Pear,Deciduous,344,488,266743,742032
+3,Afik,Natural,,,343,485,266299,742049
+4,Naot Golan,Agriculture,Almond,Deciduous,379,506,268416,744249
+5,Naot Golan,Agriculture,Almond,Deciduous,375,506,268519,744256
+6,Naot Golan,Natural,,,370,507,268753,744210
+7,Nov South,Agriculture,nectarine,Deciduous,385,524,272550,745651
+8,Nov South,Agriculture,nectarine,Deciduous,384,524,272685,745621
+9,Nov South,Natural,,,379,522,272540,744991
+10,Nov North,Agriculture,Plum,Deciduous,387,526,272388,746232
+11,Nov North,Agriculture,Plum,Deciduous,388,525,272394,745988
+12,Nov North,Natural,,,380,526,272282,746531
+13,Yonatan,Agriculture,Cherry,Deciduous,651,657,277536,761236
+14,Yonatan,Agriculture,Cherry,Deciduous,646,657,277467,761216
+15,Yonatan,Natural,,,664,660,277749,761451
+16,Merom Golan,Agriculture,Apple,Deciduous,942,831,274834,781946
+17,Merom Golan,Agriculture,Apple,Deciduous,943,829,274465,782018
+18,Merom Golan,Natural,,,987,813,274446,781129
+19,Elrom West,Agriculture,Apple,Deciduous,1031,919,274967,786231
+20,Elrom West,Agriculture,Apple,Deciduous,1043,924,274952,786512
+21,Elrom West,Natural,,,1021,912,274700,785949
+22,Elrom East,Agriculture,Apple,Deciduous,1032,920,275273,786314
+23,Elrom East,Agriculture,Apple,Deciduous,1021,921,275496,786221
+24,Elrom East,Natural,,,1019,923,275630,786122
+25,Mevo Hama,Agriculture,Almond,Deciduous,344,426,262202,737771
+26,Mevo Hama,Agriculture,Almond,Deciduous,341,427,262359,738022
+27,Mevo Hama,Natural,,,358,406,261345,736721
+28,Kidmat Tzvi,Agriculture,Pear,Deciduous,503,594,265716,772142
+29,Kidmat Tzvi,Agriculture,Pear,Deciduous,509,594,265716,772142
+30,Kidmat Tzvi,Natural,,,518,605,265847,772177
+31,Maale Gilboa,Agriculture,Grape,Grape,-177,283,247651,701634
+32,Maale Gilboa,Agriculture,Grape,Grape,-177,283,247888,700893
+33,Maale Gilboa,Natural,,,-166,287,247185,702104
+34,Moledet,Agriculture,Oroblanco,Citrus,45,405,242183,720677
+35,Moledet,Agriculture,Oroblanco,Citrus,41,404,242060,720630
+36,Hukok,Agriculture,Avocado,Evergreen,-71,494,246811,753226
+37,Hukok,Agriculture,Avocado,Evergreen,-54,491,246903,753366
+38,Ravid,Agriculture,Avocado,Evergreen,104,509,244104,750388
+39,Ravid,Agriculture,Avocado,Evergreen,104,504,244196,750376
+40,Beit Zera,Agriculture,Avocado,Evergreen,-204,391,253849,731954
+41,Beit Zera,Agriculture,Avocado,Evergreen,-204,391,253705,731977
+42,Kineret East,Agriculture,Avocado,Evergreen,160,426,249203,741105
+43,Kineret East,Agriculture,Avocado,Evergreen,165,427,249317,741214
+44,Kineret West,Agriculture,Almond,Deciduous,149,428,249035,741049
+45,Kineret West,Agriculture,Almond,Deciduous,138,428,248885,740989
+46,Aniam,Agriculture,Grapefruit,Citrus,55,510,259245,762032
+47,Aniam,Agriculture,Grapefruit,Citrus,52,510,259235,762196
+48,Mop Hula Valley,Agriculture,Avocado,Evergreen,74,467,258660,784152
+49,Mop Hula Valley,Agriculture,Avocado,Evergreen,71,464,258672,784043
+50,Gaaton,Agriculture,Avocado,Evergreen,35,624,212926,765458
+51,Gaaton,Agriculture,Avocado,Evergreen,37,624,213029,765402
+52,Gimzo,Agriculture,Clementine,Citrus,95,550,193843,648297
+53,Gimzo,Agriculture,Clementine,Citrus,90,550,193775,648212
+54,Naan,Agriculture,Clementine,Citrus,82,550,187130,643462
+55,Naan,Agriculture,Clementine,Citrus,88,549,187197,643560
+56,Hulda,Agriculture,Olive,Evergreen,103,537,188369,638547
+57,Hulda,Agriculture,Olive,Evergreen,97,537,188466,638717
+58,Bekoa,Agriculture,Orange,Citrus,138,529,194258,636868
+59,Bekoa,Agriculture,Orange,Citrus,141,529,194182,636782
+60,Revadim,Agriculture,Avocado,Evergreen,81,522,182436,630674
+61,Revadim,Agriculture,Avocado,Evergreen,80,522,182382,630644
+62,Tlamim West,Agriculture,Clementine,Citrus,74,432,167602,607138
+63,Tlamim West,Agriculture,Clementine,Citrus,74,434,167544,607187
+64,Tlamim East,Agriculture,Lemon,Citrus,76,433,167855,607235
+65,Tlamim East,Agriculture,Lemon,Citrus,76,433,167860,607144
+66,Klahim,Agriculture,Cabbage,Annual,179,330,170625,595881
+67,Klahim,Agriculture,Cabbage,Annual,174,329,170711,595724
+68,Maale Gilboa - APV1,Agriculture,Lychee,Evergreen,-173,285,247412,701938
+69,Maale Gilboa - APV2,Agriculture,Mango,Evergreen,-172,285,247499,701868
